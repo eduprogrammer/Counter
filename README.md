@@ -24,7 +24,7 @@ Copyright 2021. Eduardo Programador
     #Examples:
     
     1. put the javascript inside your script tag in head.
-      <script type="text/javascript" src="eduprogrammer.github.io/js/counter.js"></script>
+      <script type="text/javascript" src="https://eduprogrammer.github.io/js/counter.js"></script>
     
     2. <h1 id="my">456</h1>
     
